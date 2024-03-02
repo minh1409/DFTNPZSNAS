@@ -9,7 +9,7 @@ $ pip install -r requirements.txt
 ```
 -  Download databases and requirements 
 ```
-$ wget downloaddata.sh
+$ bash downloaddata.sh
 ```
 
 In our experiments, we do not implement directly the API benchmarks published in their repos (e.g., NAS-Bench-101, NAS-Bench-201, etc).
